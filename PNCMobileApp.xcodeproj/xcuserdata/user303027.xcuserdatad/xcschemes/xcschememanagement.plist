@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PNCMobileApp.xcscheme_^#shared#^_</key>
+		<key>PNCMobileApp-Dev.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>PNCMobileApp-Prod.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PNCMobileApp-Staging.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>23F93924304B4AA700F8A53D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23F93931304B4AA900F8A53D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>23F9393B304B4AA900F8A53D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
